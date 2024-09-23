@@ -13,7 +13,7 @@
 如果打破记录，可以输入名字，在排行榜留下记录<br>
 ![image](https://github.com/user-attachments/assets/7ef63518-cb41-477f-914b-8c2b171f5531)
 ![image](https://github.com/user-attachments/assets/a87b730e-fbce-4e2d-b770-d1dbf76ad8f7)
-如果选择不输入名字直接过，那么会自动将名字设置为谦虚者<br>
+<br>如果选择不输入名字直接过，那么会自动将名字设置为谦虚者<br>
 ![image](https://github.com/user-attachments/assets/81dc64da-b7bb-4dfa-aa43-3ccc1eb3a02b)
 ## 排行榜
 ![image](https://github.com/user-attachments/assets/b1cc5983-2fa6-4229-a345-b8e518a9a8bc)
